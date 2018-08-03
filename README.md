@@ -8,7 +8,7 @@ Python, Pandas, Jupyter Notebook, Google Maps API.
 
 By using their public datasets, this repository contains an Exploratory Data Analysis that tries to understand what variables influence the selling price of properties in Buenos Aires City.
 
-Taking into consideration the insights produced,  a study that predicts properties selling prices using Machine Learning algorithms can be found [here](https://github.com/marcossch/MachineLearning-Properati).
+Taking into consideration the insights produced, a study that predicts properties selling prices using Machine Learning algorithms can be found [here](https://github.com/marcossch/MachineLearning-Properati).
 
 ---
 ### *Español:* 
