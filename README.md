@@ -18,5 +18,5 @@ Taking into consideration the insights produced,  a study that predicts properti
 
 ##### Análisis de Datos - Properati
 
-Se realizó un análisis exploratorio del set de datos de ventas de Properati. Este contiene un registro histórico de
+Se realizó un análisis exploratorio del set de datos de ventas de Properati. Éste contiene un registro histórico de
 publicaciones de ventas de propiedades en CABA y Gran Buenos Aires.
