@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Analytics:
+# Exploratory Data Analysis - Analytics
 ## Languages and Technologies: 
 Python, Pandas, Jupyter Notebook, Google Maps API.
 
